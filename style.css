@@ -6,6 +6,9 @@ body {
     background-color: rgb(32, 32, 32);
     width: 100vw;
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 video {
